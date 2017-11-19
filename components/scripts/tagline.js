@@ -1,4 +1,6 @@
-var fill;
+var $, fill;
+
+$ = require('jquery');
 
 (fill = (function(_this) {
   return function(item) {
