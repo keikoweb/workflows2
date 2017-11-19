@@ -13,6 +13,7 @@
   "homepage": "https://github.com/keikoweb/workflows2#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.4",
     "gulp-util": "^3.0.8"
   }
 }
