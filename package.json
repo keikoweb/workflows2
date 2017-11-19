@@ -1,0 +1,18 @@
+{
+  "name": "workflows2",
+  "version": "0.0.1",
+  "description": "A project to showcase workflows2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keikoweb/workflows2.git"
+  },
+  "author": "Keiko Ueda",
+  "bugs": {
+    "url": "https://github.com/keikoweb/workflows2/issues"
+  },
+  "homepage": "https://github.com/keikoweb/workflows2#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
